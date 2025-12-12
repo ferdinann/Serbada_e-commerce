@@ -23,7 +23,7 @@ const App: React.FC = () => {
           </main>
           <footer className="bg-white border-t border-gray-200 py-6 mt-12">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-gray-500 text-sm">
-              <p>&copy; {new Date().getFullYear()} Serbada. MVP Demo.</p>
+              <p>&copy; {new Date().getFullYear()} Serbada. Created By Ferdinan.</p>
               <p className="mt-2">Pembayaran via WhatsApp Resmi: 083166896713</p>
             </div>
           </footer>
